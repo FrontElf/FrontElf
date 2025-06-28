@@ -1,12 +1,12 @@
 
 <div align="center">
-  <img width="300" src="https://raw.githubusercontent.com/FrontElf/FrontElf/refs/heads/main/logo.png" />
+  <img src="https://raw.githubusercontent.com/FrontElf/FrontElf/refs/heads/main/banner.png" />
 </div>
 
-<h1  align="center">Greetings! 👋</h1>
+<!-- <h1  align="center">Greetings! 👋</h1> -->
 
 <h3 align="center">
-I'm a web developer who loves creating modern and user-friendly websites
+Passionate about building sleek, performant, and accessible web experiences.
 </h3>
 
 <p align="center">
@@ -32,7 +32,7 @@ I'm a web developer who loves creating modern and user-friendly websites
 </p>
 
 ##
-<h2 align="center" style="color: transparent; background: linear-gradient(45deg, #40c6d0 0%, #5759ee 100%); -webkit-background-clip: text; background-clip: text;">
+<h3 align="center">
 ✨ "Let's code the future together!" ✨
-</h2>
+</h3>
 
