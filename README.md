@@ -1,51 +1,5 @@
-<style>
-   :root {
-      --primary-color: #40c6d0;
-      --secondary-color: #5759ee;
-      --main-gradient: linear-gradient(45deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-   }
 
-   h1,h2 {
-      border-bottom: 0px;
-      position: relative;
-      margin-top: 0 !important;
-      margin-bottom: 30px !important;
-      padding: 10px 0 !important;
-   }
-
-   h1::before,h2::before{
-      content: "";
-      position: absolute;
-      width: 100%;
-      height: 1px;
-      background: var(--main-gradient);
-      bottom: 0;
-      left: 0;
-      opacity: 0.2;
-   }
-
-   .logo {
-      opacity: 0;
-      transform: translateY(-5px);
-      animation: transform 1s ease 1s forwards;
-   }
-
-   .color-gradient {
-      color: transparent;
-      background: var(--main-gradient);
-      -webkit-background-clip: text;
-      background-clip: text;
-   }
-
-   @keyframes transform {
-      100% {
-         opacity: 1;
-         transform: translateY(0);
-      }
-   }
-</style>
-
-<div class="logo" align="center">
+<div align="center">
   <img width="300" src="https://raw.githubusercontent.com/FrontElf/FrontElf/refs/heads/main/logo.png" />
 </div>
 
@@ -78,8 +32,7 @@ I'm a web developer who loves creating modern and user-friendly websites
 </p>
 
 ##
-<h2 class="color-gradient" align="center">
+<h2 align="center" style="color: transparent; background: linear-gradient(45deg, #40c6d0 0%, #5759ee 100%); -webkit-background-clip: text; background-clip: text;">
 ✨ "Let's code the future together!" ✨
 </h2>
-
 
