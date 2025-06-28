@@ -4,11 +4,9 @@
 </div>
 
 <p align="center">
-<p align="center">
   <img src="https://raw.githubusercontent.com/FrontElf/FrontElf/refs/heads/main/subtitle.svg" width="600" />
 </p>
 
-</p>
 
 <h3 align="center">
 Passionate about building sleek, performant, and accessible web experiences.
