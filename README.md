@@ -4,19 +4,10 @@
 </div>
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="80%">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#40c6d0" />
-        <stop offset="100%" stop-color="#5759ee" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="32" font-family="Segoe UI, sans-serif"
-          fill="url(#gradient)">
-      ✨ Let's code the future together! ✨
-    </text>
-  </svg>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FrontElf/FrontElf/refs/heads/main/subtitle.svg" width="600" />
+</p>
+
 </p>
 
 <h3 align="center">
