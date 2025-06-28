@@ -34,4 +34,3 @@ Passionate about building sleek, performant, and accessible web experiences.
 👯 Looking for collaboration: with other developers and designers to create amazing projects together!
 </p>
 
-##
